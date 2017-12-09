@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@color/white"
+    android:id="@+id/ll_tv_DealWithTitle"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="50sp"/> 
+    <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/> <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/> <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/> <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/> <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/> <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/> <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/> <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/> <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/> <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/> <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/> <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/> <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/> <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/> <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/> <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/> <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/> <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/> <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/> <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/> <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/> <TextView
+         android:text="推荐内容"         android:textColor="@color/gray_33"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"/>
+</LinearLayout>
